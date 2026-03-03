@@ -1,6 +1,8 @@
 ## Hi there 👋
 I’m currently working on computer
-I’m currently learning computer something ,such as machine learning 
+
+I’m currently learning computer something ,such as **machine learning**
+
 How to reach me:2479452897@qq.com
 
 <!--
